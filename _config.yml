@@ -14,9 +14,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Cause Template
+  name: Wobag
   links:
-    - https://github.com/CloudCannon/cause-jekyll-template
+    - https://wobag.com
 
 # -----
 # Build
