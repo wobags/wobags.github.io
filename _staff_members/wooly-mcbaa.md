@@ -1,4 +1,4 @@
 ---
-name: Wooly McBaa
+name: Wobag Bag
 image: /images/wooly.jpg
 ---
